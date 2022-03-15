@@ -4,6 +4,9 @@
 
 [Live Heroku deployment](https://portfolio-imani.herokuapp.com/)
 
+![port sc](https://user-images.githubusercontent.com/98706744/158486979-98f55d21-cc0e-492d-bfa8-44ab6c222fec.png)
+
+
 ## Technologies used
 
 * HTML
